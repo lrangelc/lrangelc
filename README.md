@@ -62,3 +62,19 @@ Hi there, I'm **Luis Rangel**, a **Full Stack Developer** and a **newbie on a lo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![Luis's github stats](https://github-readme-stats.vercel.app/api?username=lrangelc&show_icons=true&hide_border=true)
+
+
+
+### 💻 my favorite stack:
+- Angular ❤
+- ReactJS & Styled-Components
+- NodeJS & Express
+- A little PHP
+- HTML & CSS
+
+### 🙀 a little about myself:
+- I'm 40 years old., and I live in Tepan, Guatemala.
+- I study in [@luisrangelc](https://platzi.com/) Platzi and Udemy [@luisrangelc](https://udemy.com/).
+- I'm a little too addicted to coffee.
+- I like jazz.
+- I like moto enduro 🛵.
