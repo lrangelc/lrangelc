@@ -47,20 +47,33 @@ Hi there, I'm **Luis Rangel**, a **Full Stack Developer** and a **newbie on a lo
 - 📫 Please email via luisrangelc@gmail.com to reach me.
 
 
-**Languages and Tools:**  
+**Languages and Tools:** 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<p>
+  <a href="https://github.com/lrangelc/handle-path-oz">
+    <img width="55%" align="right" alt="Luis's github stats" src="https://github-readme-stats.vercel.app/api?username=lrangelc&show_icons=true&hide_border=true" />
+  </a>
+  
 
-![Luis's github stats](https://github-readme-stats.vercel.app/api?username=lrangelc&show_icons=true&hide_border=true)
+<!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+</p>
 
 
 
@@ -78,3 +91,6 @@ Hi there, I'm **Luis Rangel**, a **Full Stack Developer** and a **newbie on a lo
 - I'm a little too addicted to coffee.
 - I like jazz.
 - I like moto enduro 🛵.
+
+
+
