@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 
 Hi there, I'm **Luis Rangel**, a **Full Stack Developer** and a **newbie on a loop** 🚀 from Guatemala, currently, I'm a Team Member Traeguate🙍🏽‍♂️ [@luisrangelc](https://traeguate.gt/). 
 
+<!-- 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+-->
   <img align="right" alt="GIF" src="https://lucignation.github.io/AnimeWebsite/images/programmer.gif" />
 
 **Talking about Personal Stuffs:**
