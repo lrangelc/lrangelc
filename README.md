@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/luisrangelc">
   <img align="left" alt="Luis's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://lrangelc.github.io/">
+  <img align="left" alt="Luis's github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
 <br />
 <br />
