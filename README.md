@@ -89,7 +89,7 @@ Hi there, I'm **Luis Rangel**, a **Full Stack Developer** and a **newbie on a lo
 - HTML & CSS
 
 ### 🙀 a little about myself:
-- I'm 40 years old., and I live in Tecpan, Guatemala.
+- I'm 40 years old and I live in Tecpan, Guatemala.
 - I study in [@luisrangelc](https://platzi.com/@luisrangelc/) Platzi and Udemy [@luisrangelc](https://www.udemy.com/user/luis-rangel-18/).
 - I'm a little too addicted to coffee.
 - I like jazz.
