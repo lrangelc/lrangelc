@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi there, I'm **Luis Rangel**, a **Full Stack Developer** and a **newbie on a loop** 🚀 from Guatemala, currently, I'm a Team Member Rappid Design🙍🏽‍♂️ [@luisrangelc](https://traeguate.gt/). 
+Hi there, I'm **Luis Rangel**, a **Full Stack Developer** and a **newbie on a loop** 🚀 from Guatemala, currently, I'm a Team Member Rappid Design🙍🏽‍♂️ [@luisrangelc](https://www.rappid.design/). 
 
 <!-- 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -44,7 +44,7 @@ Hi there, I'm **Luis Rangel**, a **Full Stack Developer** and a **newbie on a lo
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on Traeguate;
+- 👨🏽‍💻 I’m currently working on Rappid Design;
 - 🌱 I’m currently learning Angular, Data Science, Deep Reinforcement Learning; 
 - 🤔 I’m looking for help with Flutter.
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
