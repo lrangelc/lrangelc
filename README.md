@@ -48,7 +48,7 @@ Hi there, I'm **Luis Rangel**, a **Full Stack Developer** and a **newbie on a lo
 - 🌱 I’m currently learning Angular, Data Science, Deep Reinforcement Learning; 
 - 🤔 I’m looking to help with Flutter.
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-- 💼 I’m pursuing be a JavaScript Expert, Backend development with JS, Angular Frontend Developer, ReactJS Frontend Developer;
+- 💼 I’m pursuing be a JavaScript Expert, Backend development with JS, Angular Frontend Developer, ReactJS Frontend Developer, [NestJs Lover](https://nestjs.com/);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via luisrangelc@gmail.com to reach me.
 
