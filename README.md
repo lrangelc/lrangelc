@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi there, I'm **Luis Rangel**, a **Full Stack Javascript Developer** and a **newbie on a loop** 🚀 from Guatemala, currently, I'm a Team Member Rappid Design🙍🏽‍♂️ [@luisrangelc](https://www.rappid.design/). A constant desire to improve, to learn more and take things to the next level!
+Hi there, I'm **Luis Rangel**, a **Full Stack Developer** and a **newbie on a loop** 🚀 from Guatemala, currently, I'm a Team Member Rappid Design🙍🏽‍♂️ [@luisrangelc](https://www.rappid.design/). A constant desire to improve, to learn more and take things to the next level!
 
 <!-- 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
