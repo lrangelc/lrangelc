@@ -40,7 +40,7 @@ Hi there, I'm **Luis Rangel**, a **Full Stack Developer** and a **newbie on a lo
 <!-- 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 -->
-  <img align="right" alt="GIF" src="https://lucignation.github.io/AnimeWebsite/images/programmer.gif" width="50%" height="20%" style="border-radius: 50%;" />
+  <img align="right" alt="GIF" src="https://lucignation.github.io/AnimeWebsite/images/programmer.gif" width="50%" height="20%" />
 
 **Talking about Personal Stuffs:**
 
