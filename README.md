@@ -35,20 +35,20 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi there, I'm **Luis Rangel**, a **Full Stack Developer** and a **newbie on a loop** 🚀 from Guatemala, currently, I'm a Team Member Rappid Design🙍🏽‍♂️ [@luisrangelc](https://www.rappid.design/). A constant desire to improve, to learn more and take things to the next level!
+Hi there, I'm **Luis Rangel**, a **Full Stack Developer** and a **newbie on a loop** 🚀 from Guatemala, currently, I'm a Team Member TELUS International Digital Solutions🙍🏽‍♂️ [@luis.rangel](https://www.telus.com/). A constant desire to improve, to learn more and take things to the next level!
 
 <!-- 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 -->
-  <img align="right" alt="GIF" src="https://lucignation.github.io/AnimeWebsite/images/programmer.gif" width="50%" height="20%" />
+  <img align="right" alt="GIF" src="https://lucignation.github.io/AnimeWebsite/images/programmer.gif" width="50%" height="20%" style="border-radius: 50%;" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on Rappid Design;
-- 🌱 I’m currently learning Angular, Data Science, Deep Reinforcement Learning; 
+- 👨🏽‍💻 I’m currently working on TELUS International Digital Solutions;
+- 🌱 I’m currently learning React, Angular, Flutter, Data Science, Deep Reinforcement Learning; 
 - 🤔 I’m looking to help with Flutter.
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-- 💼 I’m pursuing be a JavaScript Expert, Backend development with JS, Angular Frontend Developer, ReactJS Frontend Developer, [NestJs Lover](https://nestjs.com/);
+- 💼 I’m pursuing be a JavaScript Expert, Backend development with JS, Angular Frontend Developer, ReactJS Frontend Developer, [NestJS Lover](https://nestjs.com/) and [NextJS Lover](https://nestjs.org/);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via luisrangelc@gmail.com to reach me.
 
@@ -65,19 +65,23 @@ Hi there, I'm **Luis Rangel**, a **Full Stack Developer** and a **newbie on a lo
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
