@@ -56,7 +56,7 @@ Hi there, I'm **Luis Rangel**, a **Full Stack Developer** and a **newbie on a lo
 
 <p>
   <a href="https://github.com/lrangelc/handle-path-oz">
-    <img width="55%" align="right" alt="Luis's github stats" src="https://github-readme-stats.vercel.app/api?username=lrangelc&show_icons=true&hide_border=true&theme=dark" />
+    <img width="55%" align="right" alt="Luis's github stats" src="https://github-readme-stats.vercel.app/api?username=lrangelc&show_icons=true&hide_border=true&theme=transparent" />
   </a>
   
 <!-- Your languages and tools. Be careful with the alignment. 
