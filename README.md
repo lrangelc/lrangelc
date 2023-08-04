@@ -16,21 +16,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.linkedin.com/in/luisrangelc/" target="_blank">
-  <img align="left" alt="Luis's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/luisrangelc/" target="_blank">
-  <img align="left" alt="Luis's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.twitter.com/luis_rangel_c" target="_blank">
-  <img align="left" alt="Luis's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.facebook.com/luisrangelc" target="_blank">
-  <img align="left" alt="Luis's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://lrangelc.github.io/" target="_blank">
-  <img align="left" alt="Luis's github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+<p style="background-color: white; padding: 10px;">
+  <a href="https://www.linkedin.com/in/luisrangelc/" target="_blank">
+    <img align="left" alt="Luis's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/luisrangelc/" target="_blank">
+    <img align="left" alt="Luis's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a href="https://www.twitter.com/luis_rangel_c" target="_blank">
+    <img align="left" alt="Luis's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://www.facebook.com/luisrangelc" target="_blank">
+    <img align="left" alt="Luis's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  </a>
+  <a href="https://lrangelc.github.io/" target="_blank">
+    <img align="left" alt="Luis's github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+</p>
 
 <br />
 <br />
