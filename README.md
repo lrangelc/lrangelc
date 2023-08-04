@@ -98,7 +98,7 @@ Hi there, I'm **Luis Rangel**, a **Full Stack Developer** and a **newbie on a lo
 - I study in [@luisrangelc](https://platzi.com/@luisrangelc/) Platzi and Udemy [@luisrangelc](https://www.udemy.com/user/luis-rangel-18/).
 - I'm a little too addicted to coffee.
 - I like jazz and progressive rock.
-- I love moto enduro 🛵.
+- I love moto enduro 🛵, 🏍️, 🛣️.
 
 
 
